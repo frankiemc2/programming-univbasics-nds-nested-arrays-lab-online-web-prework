@@ -23,7 +23,7 @@ def assembled_matrix
     "Joelle van Dyne",
     "Pat M.",
     "Kate Gompert",
-    "Bruce Green"  ]
+    "Bruce Green"  ] ,
   [ "Hal Incandenza",
     "Lyle",
     "Gerhard Schtitt",
