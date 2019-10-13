@@ -49,7 +49,7 @@ array_literal_matrix= [
     "Mario Incandenza",
     "Michael Pemulis"
   ]
-Return array_literal_matrix.sort!
+return  array_literal_matrix.sort!
 end
 
 def matrix_lookup(matrix, row, column)
