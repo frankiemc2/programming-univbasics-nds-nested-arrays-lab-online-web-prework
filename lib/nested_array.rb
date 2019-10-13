@@ -51,7 +51,7 @@ def array_literal_matrix
     "Mario Incandenza",
     "Michael Pemulis"
   ]
-  array_literal_matrix= [ENNET_HOUSE.sorts],[ENFIELD_TENNIS_ACADEMY.sorts]
+  array_literal_matrix= [ENNET_HOUSE.sort],[ENFIELD_TENNIS_ACADEMY.sort]
 end
 
 def matrix_lookup(matrix, row, column)
