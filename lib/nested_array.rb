@@ -41,15 +41,15 @@ array_literal_matrix= [
     "Pat M.",
     "Kate Gompert",
     "Bruce Green"
-  ],
+  ].sort!,
 [
     "Hal Incandenza",
     "Lyle",
     "Gerhard Schtitt",
     "Mario Incandenza",
     "Michael Pemulis"
-  ]
-return  array_literal_matrix.sort!
+  ].sort!
+
 end
 
 def matrix_lookup(matrix, row, column)
