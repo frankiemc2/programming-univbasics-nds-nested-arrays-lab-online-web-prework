@@ -54,6 +54,8 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
+  matrix_lookup =[matrix],[row],[column]
+  return matrix_lookup[],[],[]
 end
 
 def matrix_update(matrix, row, column, new_value)
