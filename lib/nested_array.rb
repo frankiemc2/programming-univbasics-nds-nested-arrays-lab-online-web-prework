@@ -41,7 +41,7 @@ array_literal_matrix= [
     "Pat M.",
     "Kate Gompert",
     "Bruce Green"
-  ].sorts
+  ].sorts,
 [
     "Hal Incandenza",
     "Lyle",
