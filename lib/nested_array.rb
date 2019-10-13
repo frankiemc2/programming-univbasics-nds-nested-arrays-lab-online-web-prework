@@ -25,7 +25,7 @@ def assembled_matrix
     "Kate Gompert",
     "Bruce Green"
   ]
-
+end
   ENFIELD_TENNIS_ACADEMY = [
     "Hal Incandenza",
     "Lyle",
